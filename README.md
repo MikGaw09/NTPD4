@@ -24,8 +24,7 @@ Do aplikacji dodałem handler błędów, który opakowuje informacje o błędzie
 ## Rozszerzenie API o dodatkowe endpointy i dokumentację
 Do aplikacji dodano dwa endpointy: Pierwszy z nich wskazuje czy serwer żyje a drugi podaje nam informacje o modelu
 
-<img width="448" height="494" alt="image" src="https://github.com/user-attachments/assets/6c831e76-5d4d-4d48-aca7-
-8e4af32f359b" />
+<img width="448" height="494" alt="image" src="https://github.com/user-attachments/assets/6c831e76-5d4d-4d48-aca7-8e4af32f359b" />
 <img width="460" height="543" alt="image" src="https://github.com/user-attachments/assets/05b2b376-f4e4-45e9-97f9-8c9b1c255a1f" />
 
 # ZADANIE 5
