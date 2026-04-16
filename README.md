@@ -10,6 +10,7 @@ Po utworzeniu projektu FastAPI, stworzyłem endpoint który przesyła json z wia
 ## Dodanie modelu ML i endpointu predykcji
 Wykorzystałem model zbudowany na pierwszych zajęciach. Zaimportowałem go do pliku app.py, następnie stworzyłem endpoint post który przyjmuje jsona z parametrami 
 kwiatów a następnie zwraca predykcje typu. 
+
 <img width="390" height="360" alt="image" src="https://github.com/user-attachments/assets/34828475-c812-4e57-8cbc-56a35ecf9f2c" />
 
 # ZADANIE 3
