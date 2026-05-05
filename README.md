@@ -52,4 +52,9 @@ docker compose up --build[
 # Wymagania i konfiguracja
 ## Zasoby
 1. Zainstalowany Docker na maszynie
-2. Pliki app.py, requirements.txt, model_iris_v1.pkl 
+2. Pliki app.py, requirements.txt, model_iris_v1.pkl
+3. W przypadku wykorzystania docker lub docker-compose należy posiadać również pliki Dockerfile lub docker-compose.yml
+
+## Konfiguracja parametrów
+W przypadku zmiany portu należy zaktualizować to w pliku Dockerfile lub docker-compose.yml
+
