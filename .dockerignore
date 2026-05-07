@@ -1,26 +1,21 @@
-# Środowisko wirtualne (BARDZO WAŻNE - waży dużo i ma inne ścieżki niż w kontenerze)
+
 .venv/
 venv/
 ENV/
 
-# Bytecode Pythona
+
 **/__pycache__/
 *.py[cod]
 *$py.class
 
-# Pliki IDE (PyCharm / VS Code)
-.idea/
-.vscode/
 
-# Pliki Dockerowe (nie ma sensu kopiować ich do środka obrazu)
+.idea/
+
+
+
 Dockerfile
 docker-compose.yml
 .dockerignore
 
-# Dane i modele (Opcjonalnie)
-# Jeśli model_iris_v1.pkl jest duży, a chcesz go pobierać np. z Cloud Storage,
-# to go dopisz. Ale przy małych plikach .pkl zwykle zostawia się je w obrazie.
-
-# Systemowe śmieci
 .DS_Store
 Thumbs.db
