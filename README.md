@@ -2,7 +2,8 @@
 
 ## Zadanie 1 
 ## Plik requirements zawiera wszystkie potrzebne do działania biblioteki. Ponadto do poprawnego działania kontenera dodano uvicorn tak aby nie aplikacja nie wyłączała się od razu po uruchomieniu kontenera
-<img width="178" height="121" alt="image" src="https://github.com/user-attachments/assets/3faf2248-5b3f-495d-9438-10ddaf6d1b7d" />
+<img width="236" height="124" alt="image" src="https://github.com/user-attachments/assets/223ded3c-8f5f-4146-acca-572531d94b79" />
+
 
 ## Zadanie 2
 ## plik Dockerfile uruchamia aplikacje poprzez uvicorna, wciągając do kontenera wszystkie wymagane biblioteki z pliku requirements
